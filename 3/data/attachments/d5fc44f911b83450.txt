@@ -1,0 +1,17 @@
+{
+    "interview_id":"",
+    "candidate_email": "",
+    "is_interview": ""
+}   
+
+
+
+
+
+
+
+
+
+
+
+
