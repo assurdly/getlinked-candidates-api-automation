@@ -1,0 +1,1 @@
+{"message":"Candidate is not in the ongoing list for this assessment"}
