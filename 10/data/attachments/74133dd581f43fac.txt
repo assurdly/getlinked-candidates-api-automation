@@ -1,0 +1,8 @@
+{
+   
+       "invite_id": "f4b721f8-6b08-41d9-b540-a4e4f1a7f84a",
+    "assessment_id": "92294f0e-c6b6-42d5-b1d6-bf71404a7972",
+    "result_id": "5a694dc4-9937-4b40-80cc-3fdb5b115cfa",
+    "candidate_email": "tara@mailinator.com",
+    "candidate_name": "Tara Tang"
+}
