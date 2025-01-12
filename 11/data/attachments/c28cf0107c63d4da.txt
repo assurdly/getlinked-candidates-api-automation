@@ -1,0 +1,17 @@
+{
+    "interview_id":"b34abb02-2985-4c2d-ba6c-79537c6ddcc4",
+    "candidate_email": "shaun@mailinator.com",
+    "is_interview": "True"
+}   
+
+
+
+
+
+
+
+
+
+
+
+

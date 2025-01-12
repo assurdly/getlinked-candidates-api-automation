@@ -1,0 +1,5 @@
+{
+    "candidate_email": "abisola+24@assurdly.com",
+    "interview_id":"b34abb02-2985-4c2d-ba6c-79537c6ddcc4",
+    "result_id": "92e66617-4712-40fe-aeba-9daf63f1aeaf"
+}
