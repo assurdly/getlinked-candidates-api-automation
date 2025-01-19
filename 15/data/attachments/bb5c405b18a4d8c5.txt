@@ -1,0 +1,18 @@
+[
+    {
+    "candidate": "tara@mailinator.com",
+    "invite_id": "f4b721f8-6b08-41d9-b540-a4e4f1a7f84a",
+    "section_id": "97828620-4b41-4c32-a5ec-0da0b533c785",
+    "question": "13b9abc2-f114-4863-ad61-160c1ae69994",
+    "answer": ["To define the structure of a database table"]
+}
+
+
+
+
+
+
+
+
+]
+
