@@ -1,0 +1,1 @@
+{"detail":"Missing required fields: candidate_email, profile_photo, photo_id, result_id"}
