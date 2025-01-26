@@ -1,0 +1,17 @@
+{
+    "interview_id":"42bd5eaa-8ed5-4dc2-8723-8928f2bfc71a",
+    "candidate_email": "ibejihdaniel@gmail.com",
+    "is_interview": "True"
+}   
+
+
+
+
+
+
+
+
+
+
+
+
