@@ -1,1 +1,0 @@
-{"detail":"Invite has already been accepted."}
