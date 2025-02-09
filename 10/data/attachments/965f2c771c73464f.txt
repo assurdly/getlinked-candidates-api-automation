@@ -1,5 +1,0 @@
-{
-    "email": "abisola+24@assurdly.com",
-    "token": "6022c9d3",
-    "is_interview": "True"
-}

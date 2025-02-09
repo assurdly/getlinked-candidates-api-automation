@@ -1,5 +1,0 @@
-{
-    "rating": 4,
-    "feedback": "Nice Stuff",
-    "candidate_email": "abisola+24assurdly.com"
-}
