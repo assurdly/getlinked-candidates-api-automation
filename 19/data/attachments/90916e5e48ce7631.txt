@@ -1,5 +1,0 @@
-{
-    "email": "shaun@mailinator.com",
-    "token": " f2c6adf7",
-    "is_interview": "True"
-}

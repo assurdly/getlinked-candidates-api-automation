@@ -1,5 +1,0 @@
-{
-    "candidate_email": "teni@mailinator.com",
-    "interview_id":"e022d676-277d-4b03-84c6-8e30e1d96df0",
-    "result_id": "fceb0f67-c0de-43e9-839d-552025042260"
-}

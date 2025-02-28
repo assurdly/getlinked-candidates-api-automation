@@ -1,5 +1,0 @@
-{
-    "rating": "",
-    "feedback": "",
-    "candidate_email": ""
-}

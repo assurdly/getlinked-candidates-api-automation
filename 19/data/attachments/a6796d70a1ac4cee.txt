@@ -1,5 +1,0 @@
-{
-    "candidate_email": "",
-    "interview_id":"",
-    "result_id": ""
-}

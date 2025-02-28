@@ -1,5 +1,0 @@
-{
-    "candidate_email": "ibejihdaniel@gmail.com",
-    "interview_id":"3f6d8fc5-5425-4845-b64b-90f5e838129f",
-    "result_id": "adc81565-92de-4eab-9dcd-dfd9c412f1c6"
-}

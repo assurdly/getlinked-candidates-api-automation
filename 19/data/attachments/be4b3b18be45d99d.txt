@@ -1,5 +1,0 @@
-{
-    "email": "ibejihdaniel@gmail.com",
-    "token": "5c73f275",
-    "is_interview": "True"
-}
